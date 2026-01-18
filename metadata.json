@@ -1,0 +1,5 @@
+{
+  "name": "we cracking now",
+  "description": "An AI-powered internship compatibility analyzer that quantifies a student's chances of landing a role and provides personalized improvement strategies using the Gemini API.",
+  "requestFramePermissions": []
+}
